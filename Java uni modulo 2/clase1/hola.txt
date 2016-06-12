@@ -1,0 +1,9 @@
+varchar		char		varchar2
+number		 int long 
+
+jguerra91@gmail.com
+
+modificar oracle 8080
+
+nunca colocar nada en el desktop
+
